@@ -1,0 +1,6 @@
+5
+O(aa,bb)
+O(bb,cc)
+G(aa)
+~G(cc)
+(~O(x,y), ~G(x), G(y))

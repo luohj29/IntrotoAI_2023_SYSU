@@ -1,0 +1,42 @@
+Test source from : .\data\1.txt
+6 11 4 14 5 8 9 5 8 3 2 6 14 8 15 7 10 4 8 15 3 2 6 14 15 10 7 3 2 6 14 15 10 7 3 2 6 10 11 12 
+Test 1, Total Step 40 
+Used Time 1.453444 sec
+Expanded 11437 nodes
+
+---------------------------------
+Test source from : .\data\2.txt
+15 14 4 2 12 15 14 8 10 4 8 9 3 5 11 13 5 14 2 12 15 11 14 2 9 10 7 3 2 9 10 7 3 2 6 5 9 10 11 15 
+Test 2, Total Step 40 
+Used Time 0.199539 sec
+Expanded 2423 nodes
+
+---------------------------------
+Test source from : .\data\3.txt
+11 14 9 1 12 4 1 8 2 13 15 12 8 2 3 11 14 9 6 1 2 3 11 7 13 11 7 14 10 13 14 10 9 5 1 2 3 7 11 15 
+Test 3, Total Step 40 
+Used Time 0.256517 sec
+Expanded 3743 nodes
+
+---------------------------------
+Test source from : .\data\4.txt
+1 8 4 1 5 11 15 3 13 15 3 10 1 5 8 4 2 1 7 14 1 7 5 3 10 6 14 5 7 2 3 7 6 14 9 13 14 10 11 12 
+Test 4, Total Step 40 
+Used Time 3.080816 sec
+Expanded 48411 nodes
+
+---------------------------------
+Test source from : .\data\ppt_1.txt
+6 10 9 4 14 9 4 1 10 4 1 3 2 14 9 1 3 2 5 11 8 6 4 3 2 5 13 12 14 13 12 7 11 12 7 14 13 9 5 10 6 8 12 7 10 6 7 11 15 
+Test 5, Total Step 49 
+Used Time 176.832030 sec
+Expanded 1918365 nodes
+
+---------------------------------
+Test source from : .\data\ppt_2.txt
+9 12 13 5 1 9 7 11 2 4 12 13 9 7 11 2 15 3 2 15 4 11 15 8 14 1 5 9 13 15 7 14 10 6 1 5 9 13 14 10 6 2 3 4 8 7 11 12 
+Test 6, Total Step 48 
+Used Time 419.734695 sec
+Expanded 4171152 nodes
+
+---------------------------------
