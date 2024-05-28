@@ -1,0 +1,3 @@
+Predicted class: baihe
+Confidence: 0.9827
+True class: baihe

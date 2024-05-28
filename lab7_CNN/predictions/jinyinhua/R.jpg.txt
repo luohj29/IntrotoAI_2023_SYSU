@@ -1,0 +1,3 @@
+Predicted class: jinyinhua
+Confidence: 0.9961
+True class: jinyinhua

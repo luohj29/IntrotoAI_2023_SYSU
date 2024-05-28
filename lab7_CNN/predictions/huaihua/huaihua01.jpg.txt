@@ -1,0 +1,3 @@
+Predicted class: huaihua
+Confidence: 0.9998
+True class: huaihua

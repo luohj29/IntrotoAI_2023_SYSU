@@ -1,0 +1,3 @@
+Predicted class: gouqi
+Confidence: 1.0000
+True class: gouqi

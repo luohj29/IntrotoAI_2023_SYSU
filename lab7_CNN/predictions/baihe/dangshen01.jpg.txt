@@ -1,0 +1,3 @@
+Predicted class: baihe
+Confidence: 0.9689
+True class: dangshen

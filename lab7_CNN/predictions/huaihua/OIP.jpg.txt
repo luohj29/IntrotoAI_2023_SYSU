@@ -1,0 +1,3 @@
+Predicted class: huaihua
+Confidence: 0.9971
+True class: jinyinhua

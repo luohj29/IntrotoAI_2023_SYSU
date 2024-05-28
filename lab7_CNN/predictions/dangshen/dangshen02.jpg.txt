@@ -1,0 +1,3 @@
+Predicted class: dangshen
+Confidence: 0.7408
+True class: dangshen
